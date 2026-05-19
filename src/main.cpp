@@ -13,7 +13,8 @@ void runBasic() {
     Tensor b(1.0);
     Tensor target(10.0);
 
-    Tensor y = w * x + b;
+    Tensor wx = w * x;
+    Tensor y = wx + b;
     Tensor diff = y - target;
     Tensor loss = diff * diff;
 

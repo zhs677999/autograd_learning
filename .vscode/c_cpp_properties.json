@@ -3,15 +3,13 @@
     {
       "name": "windows-gcc-x64",
       "includePath": [
-        "${workspaceFolder}/**"
+        "${workspaceFolder}/include",
+        "${workspaceFolder}/src"
       ],
-      "compilerPath": "C:/Users/ssjjd/bin/gcc-msys2.cmd",
-      "cStandard": "${default}",
-      "cppStandard": "${default}",
-      "intelliSenseMode": "windows-gcc-x64",
-      "compilerArgs": [
-        ""
-      ]
+      "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64"
     }
   ],
   "version": 4
