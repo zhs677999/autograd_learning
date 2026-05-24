@@ -19,7 +19,6 @@ private:
 
 public:
     LinkedList() : head(nullptr), count(0) {}
-
     LinkedList(const LinkedList& other) : head(nullptr), count(0) {
         Node* current = other.head;
         while (current) {
@@ -32,7 +31,6 @@ public:
         if (this == &other) {
             return *this;
         }
-
         clear();
         Node* current = other.head;
         while (current) {

@@ -51,12 +51,32 @@ public:
     }
 
     Tensor(double value, bool reqGrad = true) {
+        rows = 1;
+        cols = 1;
         data = new double[1];
         grad = new double[1];
         data[0] = value;
         grad[0] = 0.0;
-        rows = 1;
-        cols = 1;
+        backwardFunc = nullptr;
+        requiresGrad = reqGrad;
+    }
+
+    Tensor(const double* value, size_t i, size_t j, bool reqGrad = true) {
+        if (i == 0 || j == 0) {
+            throw invalid_argument("Tensor shape must be positive");
+        }
+        if (!value) {
+            throw invalid_argument("Tensor data pointer must not be null");
+        }
+
+        rows = static_cast<int>(i);
+        cols = static_cast<int>(j);
+        data = new double[rows * cols];
+        grad = new double[rows * cols];
+        for (int k = 0; k < rows * cols; ++k) {
+            data[k] = value[k];
+            grad[k] = 0.0;
+        }
         backwardFunc = nullptr;
         requiresGrad = reqGrad;
     }
@@ -214,10 +234,9 @@ public:
     }
 
     void backward() {
-        if (rows != 1 || cols != 1) {
-            throw logic_error("backward only supports scalar Tensor in basic tier");
+        for (int i = 0; i < size(); i++) {
+            setGrad(i, 1.0);
         }
-        setGrad(0, 1.0);
         _backward();
     }
 
