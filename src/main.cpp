@@ -110,13 +110,13 @@ void runChallenge() {
     Linear layer1(2, 4);
     Linear layer2(4, 1);
 
-    SGD optimizer(0.5);
+    SGD optimizer(2.5);
     optimizer.addParam(&layer1.weight());
     optimizer.addParam(&layer1.bias());
     optimizer.addParam(&layer2.weight());
     optimizer.addParam(&layer2.bias());
 
-    trainLoss(layer1, layer2, x, target, optimizer, 20000, 2000);
+    trainLoss(layer1, layer2, x, target, optimizer, 1000, 100);
 
     Tensor h = layer1.forward(x);
     Tensor a = sigmoid(h);

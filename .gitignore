@@ -364,3 +364,10 @@ FodyWeavers.xsd
 
 # Local TinyTensor build output
 build/
+
+# Local editor and private config
+.vscode/
+.env
+.env.*
+*.local
+*.secret
