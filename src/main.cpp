@@ -8,6 +8,7 @@
 #include "Module.h"
 #include "Optimizer.h"
 #include "Loss.h"
+#include "Sequential.h"
 
 using namespace std;
 
@@ -52,18 +53,18 @@ void runStandard() {
         y_true.at(i, 0) = true_w1 * x1 + true_w2 * x2 + true_b;
     }
 
-    // 2. 定义可训练线性层
     Linear layer(2, 1);
     Tensor& W = layer.weight();    // 权重 [2,1]，需要梯度
     Tensor& b = layer.bias();      // 偏置 [1,1]，需要梯度
 
-    // 3. 创建优化器并注册参数
-    SGD optimizer(0.05);
-    optimizer.addParam(&W);
-    optimizer.addParam(&b);
+    Sequential model;
+    model.add(layer);
 
-    // 4. 训练循环已封装到 trainLoss
-    trainLoss(layer, X, y_true, optimizer, 5000, 50);
+    SGD optimizer(0.05);
+    model.compile(optimizer);
+
+    model.fit(X, y_true, 5000, 50);
+    model.saveParameters("output/standard_params.txt");
 
     cout << "训练完成" << endl;
     // 5. 验证部分
@@ -110,18 +111,17 @@ void runChallenge() {
     Linear layer1(2, 4);
     Linear layer2(4, 1);
 
+    Sequential model;
+    model.add(layer1, ACT_SIGMOID);
+    model.add(layer2, ACT_SIGMOID);
+
     SGD optimizer(0.5);
-    optimizer.addParam(&layer1.weight());
-    optimizer.addParam(&layer1.bias());
-    optimizer.addParam(&layer2.weight());
-    optimizer.addParam(&layer2.bias());
+    model.compile(optimizer);
 
-    trainLoss(layer1, layer2, x, target, optimizer, 20000, 2000);
+    model.fit(x, target, 20000, 2000);
+    model.saveParameters("output/xor_params.txt");
 
-    Tensor h = layer1.forward(x);
-    Tensor a = sigmoid(h);
-    Tensor z = layer2.forward(a);
-    Tensor pred = sigmoid(z);
+    Tensor& pred = model.forward(x);
 
     cout << "XOR predictions:" << endl;
     for (int i = 0; i < pred.rowCount(); i++) {

@@ -1,0 +1,940 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/oxd1da",
+    "id": "oxd1da",
+    "slide": 11,
+    "layoutId": "3078e62f-a927-4dc5-8c3f-7faa9de6462e",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "f9888c39-a58c-48cb-9558-085ef3aa0fd5",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei",
+      "Microsoft YaHei UI"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "3078e62f-a927-4dc5-8c3f-7faa9de6462e",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "f9888c39-a58c-48cb-9558-085ef3aa0fd5",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "f9888c39-a58c-48cb-9558-085ef3aa0fd5",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rmhk3q5o",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#050B13",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7adsji5",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(5, 11, 19, 0.93725)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/8bat47y1",
+      "id": "3",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "alt": "flowing trajectory overlay",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "66768db8-c25b-4d92-8094-a49720ad1b5b",
+        "contentType": "image/png",
+        "byteLength": 190067
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yd0z6103",
+      "id": "4",
+      "bbox": [
+        0,
+        676,
+        1280,
+        44
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(5, 11, 19, 0.9098)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rytsvu9k",
+      "id": "5",
+      "bbox": [
+        0,
+        676,
+        1280,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#18BDF2",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gfmlkjm1",
+      "id": "6",
+      "bbox": [
+        56,
+        689,
+        620,
+        20
+      ],
+      "geometry": "rect",
+      "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+      "textPreview": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+          "runs": [
+            {
+              "index": 1,
+              "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/90je9cvi",
+      "id": "7",
+      "bbox": [
+        1180,
+        689,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "11",
+      "textPreview": "11",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "11"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "11",
+          "runs": [
+            {
+              "index": 1,
+              "text": "11",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#7DE3FF"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylc7u54z",
+      "id": "8",
+      "bbox": [
+        774,
+        134,
+        362,
+        272
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "#18BDF2",
+      "lineWidth": 1.5
+    },
+    {
+      "order": 9,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ulwval87",
+      "id": "9",
+      "bbox": [
+        780,
+        140,
+        350,
+        260
+      ],
+      "alt": "project source photo",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "cd8a7571-a952-4b59-9815-5d74e14afcaa",
+        "contentType": "image/png",
+        "byteLength": 717339
+      }
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vahoza1g",
+      "id": "10",
+      "bbox": [
+        780,
+        409,
+        350,
+        22
+      ],
+      "geometry": "rect",
+      "text": "工程实物与操作验证",
+      "textPreview": "工程实物与操作验证",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "工程实物与操作验证"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "工程实物与操作验证",
+          "runs": [
+            {
+              "index": 1,
+              "text": "工程实物与操作验证",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6tovahoz",
+      "id": "11",
+      "name": "kicker-11-marker",
+      "bbox": [
+        58,
+        58,
+        7,
+        30
+      ],
+      "geometry": "rect",
+      "fillColor": "#18BDF2",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dg7adsji",
+      "id": "12",
+      "name": "kicker-11-label",
+      "bbox": [
+        78,
+        54,
+        350,
+        28
+      ],
+      "geometry": "rect",
+      "text": "VALUE",
+      "textPreview": "VALUE",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "VALUE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "VALUE",
+          "runs": [
+            {
+              "index": 1,
+              "text": "VALUE",
+              "fontSize": 15,
+              "typeface": "Microsoft YaHei",
+              "color": "#7DE3FF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovahoza1",
+      "id": "13",
+      "name": "anim-title-11",
+      "bbox": [
+        58,
+        96,
+        760,
+        112
+      ],
+      "geometry": "rect",
+      "text": "价值落在竞赛突破、工程转化与青年成长。",
+      "textPreview": "价值落在竞赛突破、工程转化与青年成长。",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "fontSize": 38,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "价值落在竞赛突破、工程转化与青年成长。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "价值落在竞赛突破、工程转化与青年成长。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "价值落在竞赛突破、工程转化与青年成长。",
+              "fontSize": 38,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z25kb6xk",
+      "id": "14",
+      "bbox": [
+        86,
+        220,
+        560,
+        34
+      ],
+      "geometry": "rect",
+      "text": "01 赛事突破",
+      "textPreview": "01 赛事突破",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01 赛事突破"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01 赛事突破",
+          "runs": [
+            {
+              "index": 1,
+              "text": "01 赛事突破",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hcrmhk3",
+      "id": "15",
+      "bbox": [
+        86,
+        262,
+        74,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#18BDF2",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8v6psfi",
+      "id": "16",
+      "bbox": [
+        86,
+        278,
+        560,
+        68
+      ],
+      "geometry": "rect",
+      "text": "挑战双单元高频并发装配任务，延续团队 2025 全国一等奖的技术落地能力。",
+      "textPreview": "挑战双单元高频并发装配任务，延续团队 2025 全国一等奖的技术落地能力。",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "挑战双单元高频并发装配任务，延续团队 2025"
+          },
+          {
+            "index": 2,
+            "text": "全国一等奖的技术落地能力。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "挑战双单元高频并发装配任务，延续团队 2025 全国一等奖的技术落地能力。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "挑战双单元高频并发装配任务，延续团队 2025 全国一等奖的技术落地能力。",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onyd0z61",
+      "id": "17",
+      "bbox": [
+        86,
+        360,
+        600,
+        34
+      ],
+      "geometry": "rect",
+      "text": "02 工程转化",
+      "textPreview": "02 工程转化",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02 工程转化"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02 工程转化",
+          "runs": [
+            {
+              "index": 1,
+              "text": "02 工程转化",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vy90je9c",
+      "id": "18",
+      "bbox": [
+        86,
+        402,
+        74,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF7A1A",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dcbulwv",
+      "id": "19",
+      "bbox": [
+        86,
+        418,
+        600,
+        68
+      ],
+      "geometry": "rect",
+      "text": "双臂对等协同与力控夹爪可迁移到复杂异形件自适应抓取和工业自动化场景。",
+      "textPreview": "双臂对等协同与力控夹爪可迁移到复杂异形件自适应抓取和工业自动化场景。",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "双臂对等协同与力控夹爪可迁移到复杂异形件自适应抓取和工业自动化场景。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "双臂对等协同与力控夹爪可迁移到复杂异形件自适应抓取和工业自动化场景。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "双臂对等协同与力控夹爪可迁移到复杂异形件自适应抓取和工业自动化场景。",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ahoza1gv",
+      "id": "20",
+      "bbox": [
+        86,
+        500,
+        610,
+        34
+      ],
+      "geometry": "rect",
+      "text": "03 实践育人",
+      "textPreview": "03 实践育人",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03 实践育人"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03 实践育人",
+          "runs": [
+            {
+              "index": 1,
+              "text": "03 实践育人",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/32lszqtc",
+      "id": "21",
+      "bbox": [
+        86,
+        542,
+        74,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#52D273",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sneloj2t",
+      "id": "22",
+      "bbox": [
+        86,
+        558,
+        610,
+        68
+      ],
+      "geometry": "rect",
+      "text": "把理论学习、调研拆解、实物验证与团队协作落到真实工程问题中，练就过硬本领。",
+      "textPreview": "把理论学习、调研拆解、实物验证与团队协作落到真实工程问题中，练就过硬本领。",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "把理论学习、调研拆解、实物验证与团队协作落到真实工程问题中，练就过硬本"
+          },
+          {
+            "index": 2,
+            "text": "领。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "把理论学习、调研拆解、实物验证与团队协作落到真实工程问题中，练就过硬本领。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "把理论学习、调研拆解、实物验证与团队协作落到真实工程问题中，练就过硬本领。",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l87ed8ba",
+      "id": "23",
+      "bbox": [
+        778,
+        492,
+        352,
+        90
+      ],
+      "geometry": "roundRect",
+      "fillColor": "rgba(16, 28, 48, 0.84706)",
+      "lineColor": "#FF7A1A",
+      "lineWidth": 1
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/at47y1kr",
+      "id": "24",
+      "bbox": [
+        808,
+        508,
+        120,
+        24
+      ],
+      "geometry": "rect",
+      "text": "安全底线",
+      "textPreview": "安全底线",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "安全底线"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "安全底线",
+          "runs": [
+            {
+              "index": 1,
+              "text": "安全底线",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#FF7A1A",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ex0nuxc",
+      "id": "25",
+      "name": "anim-proof-11",
+      "bbox": [
+        808,
+        536,
+        290,
+        40
+      ],
+      "geometry": "rect",
+      "text": "坚持安全第一，做好设备调试、电气联调、外出实践与赛场风险预案。",
+      "textPreview": "坚持安全第一，做好设备调试、电气联调、外出实践与赛场风险预案。",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "坚持安全第一，做好设备调试、电气联调、外"
+          },
+          {
+            "index": 2,
+            "text": "出实践与赛场风险预案。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "坚持安全第一，做好设备调试、电气联调、外出实践与赛场风险预案。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "坚持安全第一，做好设备调试、电气联调、外出实践与赛场风险预案。",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#F8FBFF"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

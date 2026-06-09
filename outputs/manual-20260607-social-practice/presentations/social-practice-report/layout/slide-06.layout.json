@@ -1,0 +1,1072 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/gohp8q",
+    "id": "gohp8q",
+    "slide": 6,
+    "layoutId": "3078e62f-a927-4dc5-8c3f-7faa9de6462e",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "f9888c39-a58c-48cb-9558-085ef3aa0fd5",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei",
+      "Microsoft YaHei UI"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "3078e62f-a927-4dc5-8c3f-7faa9de6462e",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "f9888c39-a58c-48cb-9558-085ef3aa0fd5",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "f9888c39-a58c-48cb-9558-085ef3aa0fd5",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcrmhk3q",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#050B13",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/al87ed8b",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(5, 11, 19, 0.94902)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/e9cvixcz",
+      "id": "3",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "alt": "flowing trajectory overlay",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "6a73631b-c2e9-4efb-8e3f-5584007da323",
+        "contentType": "image/png",
+        "byteLength": 206644
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfil0rqd",
+      "id": "4",
+      "bbox": [
+        0,
+        676,
+        1280,
+        44
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(5, 11, 19, 0.9098)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0fepkzu",
+      "id": "5",
+      "bbox": [
+        0,
+        676,
+        1280,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#18BDF2",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9w3m94f",
+      "id": "6",
+      "bbox": [
+        56,
+        689,
+        620,
+        20
+      ],
+      "geometry": "rect",
+      "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+      "textPreview": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+          "runs": [
+            {
+              "index": 1,
+              "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zupwb2hw",
+      "id": "7",
+      "bbox": [
+        1180,
+        689,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#7DE3FF"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obm58z25",
+      "id": "8",
+      "name": "kicker-6-marker",
+      "bbox": [
+        58,
+        58,
+        7,
+        30
+      ],
+      "geometry": "rect",
+      "fillColor": "#18BDF2",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hwfyxobm",
+      "id": "9",
+      "name": "kicker-6-label",
+      "bbox": [
+        78,
+        54,
+        350,
+        28
+      ],
+      "geometry": "rect",
+      "text": "DUAL-ARM ARCHITECTURE",
+      "textPreview": "DUAL-ARM ARCHITECTURE",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DUAL-ARM ARCHITECTURE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DUAL-ARM ARCHITECTURE",
+          "runs": [
+            {
+              "index": 1,
+              "text": "DUAL-ARM ARCHITECTURE",
+              "fontSize": 15,
+              "typeface": "Microsoft YaHei",
+              "color": "#7DE3FF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t83itgfm",
+      "id": "10",
+      "name": "anim-title-6",
+      "bbox": [
+        58,
+        96,
+        760,
+        112
+      ],
+      "geometry": "rect",
+      "text": "对称同构与仿真验证，让落地先有确定性。",
+      "textPreview": "对称同构与仿真验证，让落地先有确定性。",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "fontSize": 38,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "对称同构与仿真验证，让落地先有确定性。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "对称同构与仿真验证，让落地先有确定性。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "对称同构与仿真验证，让落地先有确定性。",
+              "fontSize": 38,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4nap4r65",
+      "id": "11",
+      "bbox": [
+        62,
+        224,
+        312,
+        242
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "#18BDF2",
+      "lineWidth": 1.5
+    },
+    {
+      "order": 12,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/0rqd4vmt",
+      "id": "12",
+      "bbox": [
+        68,
+        230,
+        300,
+        230
+      ],
+      "alt": "project source photo",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "11999128-06ad-4a86-902e-002957292e3e",
+        "contentType": "image/png",
+        "byteLength": 395008
+      }
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhk3q5o7",
+      "id": "13",
+      "bbox": [
+        68,
+        469,
+        300,
+        22
+      ],
+      "geometry": "rect",
+      "text": "空间布局",
+      "textPreview": "空间布局",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "空间布局"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "空间布局",
+          "runs": [
+            {
+              "index": 1,
+              "text": "空间布局",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/twra5gbq",
+      "id": "14",
+      "bbox": [
+        404,
+        168,
+        332,
+        282
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "#FF7A1A",
+      "lineWidth": 1.5
+    },
+    {
+      "order": 15,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/byhgn29g",
+      "id": "15",
+      "bbox": [
+        410,
+        174,
+        320,
+        270
+      ],
+      "alt": "project source photo",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "1ffe2732-1c43-443c-ad41-9816545dd901",
+        "contentType": "image/png",
+        "byteLength": 488243
+      }
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq1oryts",
+      "id": "16",
+      "bbox": [
+        410,
+        453,
+        320,
+        22
+      ],
+      "geometry": "rect",
+      "text": "双臂整体",
+      "textPreview": "双臂整体",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "双臂整体"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "双臂整体",
+          "runs": [
+            {
+              "index": 1,
+              "text": "双臂整体",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m58z25kb",
+      "id": "17",
+      "bbox": [
+        764,
+        244,
+        212,
+        222
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "#2B4768",
+      "lineWidth": 1.5
+    },
+    {
+      "order": 18,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/i9s36hcr",
+      "id": "18",
+      "bbox": [
+        770,
+        250,
+        200,
+        210
+      ],
+      "alt": "project source photo",
+      "contentType": "image/jpeg",
+      "asset": {
+        "assetId": "beba9902-e3a0-4605-a60c-cf17bd59c9db",
+        "contentType": "image/jpeg",
+        "byteLength": 266679
+      }
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47y1kre1",
+      "id": "19",
+      "bbox": [
+        770,
+        469,
+        200,
+        22
+      ],
+      "geometry": "rect",
+      "text": "关节标注",
+      "textPreview": "关节标注",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "关节标注"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "关节标注",
+          "runs": [
+            {
+              "index": 1,
+              "text": "关节标注",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g3ex0nux",
+      "id": "20",
+      "bbox": [
+        994,
+        154,
+        202,
+        222
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "#18BDF2",
+      "lineWidth": 1.5
+    },
+    {
+      "order": 21,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ex0nuxc3",
+      "id": "21",
+      "bbox": [
+        1000,
+        160,
+        190,
+        210
+      ],
+      "alt": "project source photo",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "b7dc196a-f53c-46a0-89fa-bbddd643153e",
+        "contentType": "image/png",
+        "byteLength": 614743
+      }
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxobm58z",
+      "id": "22",
+      "bbox": [
+        1000,
+        379,
+        190,
+        22
+      ],
+      "geometry": "rect",
+      "text": "MATLAB轨迹",
+      "textPreview": "MATLAB轨迹",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MATLAB轨迹"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MATLAB轨迹",
+          "runs": [
+            {
+              "index": 1,
+              "text": "MATLAB轨迹",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nih4byhg",
+      "id": "23",
+      "bbox": [
+        130,
+        520,
+        290,
+        34
+      ],
+      "geometry": "rect",
+      "text": "构型",
+      "textPreview": "构型",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "构型"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "构型",
+          "runs": [
+            {
+              "index": 1,
+              "text": "构型",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gr2p8nqx",
+      "id": "24",
+      "bbox": [
+        130,
+        562,
+        74,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF7A1A",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cvixcze",
+      "id": "25",
+      "bbox": [
+        130,
+        578,
+        290,
+        68
+      ],
+      "geometry": "rect",
+      "text": "尺寸约束下完成双臂空间布局优化与图纸绘制。",
+      "textPreview": "尺寸约束下完成双臂空间布局优化与图纸绘制。",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "尺寸约束下完成双臂空间布局优化与图纸绘"
+          },
+          {
+            "index": 2,
+            "text": "制。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "尺寸约束下完成双臂空间布局优化与图纸绘制。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "尺寸约束下完成双臂空间布局优化与图纸绘制。",
+              "fontSize": 15,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylc7u54z",
+      "id": "26",
+      "bbox": [
+        500,
+        530,
+        330,
+        34
+      ],
+      "geometry": "rect",
+      "text": "轨迹",
+      "textPreview": "轨迹",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "轨迹"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "轨迹",
+          "runs": [
+            {
+              "index": 1,
+              "text": "轨迹",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r65wjudg",
+      "id": "27",
+      "bbox": [
+        500,
+        572,
+        74,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#18BDF2",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gfmlkjm1",
+      "id": "28",
+      "bbox": [
+        500,
+        588,
+        330,
+        68
+      ],
+      "geometry": "rect",
+      "text": "完成核心装配动作连续轨迹规划与平滑性验证。",
+      "textPreview": "完成核心装配动作连续轨迹规划与平滑性验证。",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "完成核心装配动作连续轨迹规划与平滑性验证。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "完成核心装配动作连续轨迹规划与平滑性验证。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "完成核心装配动作连续轨迹规划与平滑性验证。",
+              "fontSize": 15,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/90je9cvi",
+      "id": "29",
+      "bbox": [
+        900,
+        510,
+        250,
+        34
+      ],
+      "geometry": "rect",
+      "text": "落地",
+      "textPreview": "落地",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "落地"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "落地",
+          "runs": [
+            {
+              "index": 1,
+              "text": "落地",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zupwb2hw",
+      "id": "30",
+      "bbox": [
+        900,
+        552,
+        74,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF7A1A",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9w3m94f",
+      "id": "31",
+      "bbox": [
+        900,
+        568,
+        250,
+        68
+      ],
+      "geometry": "rect",
+      "text": "为实车双臂联调扫清理论障碍。",
+      "textPreview": "为实车双臂联调扫清理论障碍。",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "为实车双臂联调扫清理论障碍。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "为实车双臂联调扫清理论障碍。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "为实车双臂联调扫清理论障碍。",
+              "fontSize": 15,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

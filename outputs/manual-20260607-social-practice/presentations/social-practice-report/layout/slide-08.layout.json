@@ -1,0 +1,1132 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/nboznm",
+    "id": "nboznm",
+    "slide": 8,
+    "layoutId": "3078e62f-a927-4dc5-8c3f-7faa9de6462e",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "f9888c39-a58c-48cb-9558-085ef3aa0fd5",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei",
+      "Microsoft YaHei UI"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "3078e62f-a927-4dc5-8c3f-7faa9de6462e",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "f9888c39-a58c-48cb-9558-085ef3aa0fd5",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "f9888c39-a58c-48cb-9558-085ef3aa0fd5",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i9s36hcr",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#050B13",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0bi9s36",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(5, 11, 19, 0.94118)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/58z25kb6",
+      "id": "3",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "alt": "flowing trajectory overlay",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "9575facb-65dc-413d-ae5c-1d87078d38b4",
+        "contentType": "image/png",
+        "byteLength": 169297
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bi9s36hc",
+      "id": "4",
+      "bbox": [
+        0,
+        676,
+        1280,
+        44
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(5, 11, 19, 0.9098)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixczed8v",
+      "id": "5",
+      "bbox": [
+        0,
+        676,
+        1280,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#18BDF2",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tovahoza",
+      "id": "6",
+      "bbox": [
+        56,
+        689,
+        620,
+        20
+      ],
+      "geometry": "rect",
+      "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+      "textPreview": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+          "runs": [
+            {
+              "index": 1,
+              "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/032lszqt",
+      "id": "7",
+      "bbox": [
+        1180,
+        689,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "08",
+      "textPreview": "08",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08",
+          "runs": [
+            {
+              "index": 1,
+              "text": "08",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#7DE3FF"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b6xkf6dc",
+      "id": "8",
+      "name": "kicker-8-marker",
+      "bbox": [
+        58,
+        58,
+        7,
+        30
+      ],
+      "geometry": "rect",
+      "fillColor": "#18BDF2",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/il0rqd4v",
+      "id": "9",
+      "name": "kicker-8-label",
+      "bbox": [
+        78,
+        54,
+        350,
+        28
+      ],
+      "geometry": "rect",
+      "text": "HAPTIC CONTROL",
+      "textPreview": "HAPTIC CONTROL",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HAPTIC CONTROL"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HAPTIC CONTROL",
+          "runs": [
+            {
+              "index": 1,
+              "text": "HAPTIC CONTROL",
+              "fontSize": 15,
+              "typeface": "Microsoft YaHei",
+              "color": "#7DE3FF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovahoza1",
+      "id": "10",
+      "name": "anim-title-8",
+      "bbox": [
+        58,
+        96,
+        820,
+        112
+      ],
+      "geometry": "rect",
+      "text": "人机交互从“下发指令”，升级到“触感闭环”。",
+      "textPreview": "人机交互从“下发指令”，升级到“触感闭环”。",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "fontSize": 38,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "人机交互从“下发指令”，升级到“触感闭环”。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "人机交互从“下发指令”，升级到“触感闭环”。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "人机交互从“下发指令”，升级到“触感闭环”。",
+              "fontSize": 38,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dg7adsji",
+      "id": "11",
+      "bbox": [
+        554,
+        148,
+        232,
+        184
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "#2B4768",
+      "lineWidth": 1.5
+    },
+    {
+      "order": 12,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/d8v6psfi",
+      "id": "12",
+      "bbox": [
+        560,
+        154,
+        220,
+        172
+      ],
+      "alt": "project source photo",
+      "contentType": "image/jpeg",
+      "asset": {
+        "assetId": "a3c9d1dd-4d7c-4364-8179-161a32fbfee7",
+        "contentType": "image/jpeg",
+        "byteLength": 187687
+      }
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vahoza1g",
+      "id": "13",
+      "bbox": [
+        560,
+        335,
+        220,
+        22
+      ],
+      "geometry": "rect",
+      "text": "控制器 V1",
+      "textPreview": "控制器 V1",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "控制器 V1"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "控制器 V1",
+          "runs": [
+            {
+              "index": 1,
+              "text": "控制器 V1",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onyd0z61",
+      "id": "14",
+      "bbox": [
+        818,
+        122,
+        246,
+        196
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "#18BDF2",
+      "lineWidth": 1.5
+    },
+    {
+      "order": 15,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/6tovahoz",
+      "id": "15",
+      "bbox": [
+        824,
+        128,
+        234,
+        184
+      ],
+      "alt": "project source photo",
+      "contentType": "image/jpeg",
+      "asset": {
+        "assetId": "9fa5278a-c0fa-4ec0-8be3-f18e52795c9b",
+        "contentType": "image/jpeg",
+        "byteLength": 142558
+      }
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hcrmhk3",
+      "id": "16",
+      "bbox": [
+        824,
+        321,
+        234,
+        22
+      ],
+      "geometry": "rect",
+      "text": "控制器 V2",
+      "textPreview": "控制器 V2",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "控制器 V2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "控制器 V2",
+          "runs": [
+            {
+              "index": 1,
+              "text": "控制器 V2",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z25kb6xk",
+      "id": "17",
+      "bbox": [
+        594,
+        404,
+        232,
+        186
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "#2B4768",
+      "lineWidth": 1.5
+    },
+    {
+      "order": 18,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/vmtwra5g",
+      "id": "18",
+      "bbox": [
+        600,
+        410,
+        220,
+        174
+      ],
+      "alt": "project source photo",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "55bede93-0deb-46d5-bd58-ea830b3b1c9d",
+        "contentType": "image/png",
+        "byteLength": 1270002
+      }
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4vmtwra",
+      "id": "19",
+      "bbox": [
+        600,
+        593,
+        220,
+        22
+      ],
+      "geometry": "rect",
+      "text": "V2 优化版",
+      "textPreview": "V2 优化版",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "V2 优化版"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "V2 优化版",
+          "runs": [
+            {
+              "index": 1,
+              "text": "V2 优化版",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hwfyxobm",
+      "id": "20",
+      "bbox": [
+        866,
+        386,
+        230,
+        190
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "#FF7A1A",
+      "lineWidth": 1.5
+    },
+    {
+      "order": 21,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/3q5o7qpg",
+      "id": "21",
+      "bbox": [
+        872,
+        392,
+        218,
+        178
+      ],
+      "alt": "project source photo",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "af112a66-c58b-42cb-97f5-cc3e3e102057",
+        "contentType": "image/png",
+        "byteLength": 366002
+      }
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zqtcj6to",
+      "id": "22",
+      "bbox": [
+        872,
+        579,
+        218,
+        22
+      ],
+      "geometry": "rect",
+      "text": "V3 图纸",
+      "textPreview": "V3 图纸",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "V3 图纸"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "V3 图纸",
+          "runs": [
+            {
+              "index": 1,
+              "text": "V3 图纸",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65wjudg7",
+      "id": "23",
+      "bbox": [
+        76,
+        250,
+        395,
+        34
+      ],
+      "geometry": "rect",
+      "text": "路线一：V2 全电机版",
+      "textPreview": "路线一：V2 全电机版",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "路线一：V2 全电机版"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "路线一：V2 全电机版",
+          "runs": [
+            {
+              "index": 1,
+              "text": "路线一：V2 全电机版",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hk3q5o7q",
+      "id": "24",
+      "bbox": [
+        76,
+        292,
+        74,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#18BDF2",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oza1gvy9",
+      "id": "25",
+      "bbox": [
+        76,
+        308,
+        395,
+        68
+      ],
+      "geometry": "rect",
+      "text": "全关节电机驱动，加入重力补偿算法以优化手感，持续调优自重与稳定性。",
+      "textPreview": "全关节电机驱动，加入重力补偿算法以优化手感，持续调优自重与稳定性。",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "全关节电机驱动，加入重力补偿算法以优化手感，持"
+          },
+          {
+            "index": 2,
+            "text": "续调优自重与稳定性。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "全关节电机驱动，加入重力补偿算法以优化手感，持续调优自重与稳定性。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "全关节电机驱动，加入重力补偿算法以优化手感，持续调优自重与稳定性。",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zed8v6ps",
+      "id": "26",
+      "bbox": [
+        76,
+        420,
+        425,
+        34
+      ],
+      "geometry": "rect",
+      "text": "路线二：V3 腕部穿戴同构版",
+      "textPreview": "路线二：V3 腕部穿戴同构版",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "路线二：V3 腕部穿戴同构版"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "路线二：V3 腕部穿戴同构版",
+          "runs": [
+            {
+              "index": 1,
+              "text": "路线二：V3 腕部穿戴同构版",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6xkf6dcb",
+      "id": "27",
+      "bbox": [
+        76,
+        462,
+        74,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF7A1A",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcrmhk3q",
+      "id": "28",
+      "bbox": [
+        76,
+        478,
+        425,
+        68
+      ],
+      "geometry": "rect",
+      "text": "碳纤维管连接，实现与机械臂及末端差速齿轮的同构映射，降低理解成本。",
+      "textPreview": "碳纤维管连接，实现与机械臂及末端差速齿轮的同构映射，降低理解成本。",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "碳纤维管连接，实现与机械臂及末端差速齿轮的同构映射"
+          },
+          {
+            "index": 2,
+            "text": "，降低理解成本。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "碳纤维管连接，实现与机械臂及末端差速齿轮的同构映射，降低理解成本。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "碳纤维管连接，实现与机械臂及末端差速齿轮的同构映射，降低理解成本。",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/orytsvu9",
+      "id": "29",
+      "bbox": [
+        1090,
+        250,
+        126,
+        126
+      ],
+      "geometry": "ellipse",
+      "fillColor": "rgba(16, 39, 64, 0.8)",
+      "lineColor": "#18BDF2",
+      "lineWidth": 2
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i9s36hcr",
+      "id": "30",
+      "name": "anim-proof-8",
+      "bbox": [
+        1092,
+        284,
+        122,
+        58
+      ],
+      "geometry": "rect",
+      "text": "所见\n即所得",
+      "textPreview": "所见 | 即所得",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "所见"
+          },
+          {
+            "index": 2,
+            "text": "即所得"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "所见",
+          "runs": [
+            {
+              "index": 1,
+              "text": "所见",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#7DE3FF",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "即所得",
+          "runs": [
+            {
+              "index": 1,
+              "text": "即所得",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#7DE3FF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bulwval8",
+      "id": "31",
+      "bbox": [
+        1090,
+        454,
+        126,
+        126
+      ],
+      "geometry": "ellipse",
+      "fillColor": "rgba(58, 33, 18, 0.8)",
+      "lineColor": "#FF7A1A",
+      "lineWidth": 2
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0fepkzup",
+      "id": "32",
+      "bbox": [
+        1092,
+        488,
+        122,
+        58
+      ],
+      "geometry": "rect",
+      "text": "所触\n即所感",
+      "textPreview": "所触 | 即所感",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "所触"
+          },
+          {
+            "index": 2,
+            "text": "即所感"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "所触",
+          "runs": [
+            {
+              "index": 1,
+              "text": "所触",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFD5B1",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "即所感",
+          "runs": [
+            {
+              "index": 1,
+              "text": "即所感",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#FFD5B1",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

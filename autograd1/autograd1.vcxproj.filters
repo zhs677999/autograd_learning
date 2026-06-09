@@ -36,6 +36,9 @@
     <ClCompile Include="..\src\Optimizer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\src\Sequential.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="..\src\Tensor.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -60,6 +63,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="..\include\Optimizer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Sequential.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="..\include\Tensor.h">

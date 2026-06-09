@@ -1,0 +1,823 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/xay53i",
+    "id": "xay53i",
+    "slide": 2,
+    "layoutId": "3078e62f-a927-4dc5-8c3f-7faa9de6462e",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "f9888c39-a58c-48cb-9558-085ef3aa0fd5",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei",
+      "Microsoft YaHei UI"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "3078e62f-a927-4dc5-8c3f-7faa9de6462e",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "f9888c39-a58c-48cb-9558-085ef3aa0fd5",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "f9888c39-a58c-48cb-9558-085ef3aa0fd5",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5kb6xkf6",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#050B13",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/7ed8bat4",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "alt": "project visual",
+      "contentType": "image/jpeg",
+      "asset": {
+        "assetId": "899b1fd1-7527-44a7-8fe6-c88ebfbd7794",
+        "contentType": "image/jpeg",
+        "byteLength": 144866
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/neloj2t8",
+      "id": "3",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(5, 11, 19, 0.83922)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/p8nqxs72",
+      "id": "4",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "alt": "flowing trajectory overlay",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "5f3b76e4-cf9f-4936-a2e7-6d8dc31300db",
+        "contentType": "image/png",
+        "byteLength": 172564
+      }
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5sneloj2",
+      "id": "5",
+      "bbox": [
+        0,
+        676,
+        1280,
+        44
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(5, 11, 19, 0.9098)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u54zidon",
+      "id": "6",
+      "bbox": [
+        0,
+        676,
+        1280,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#18BDF2",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nqxs72x4",
+      "id": "7",
+      "bbox": [
+        56,
+        689,
+        620,
+        20
+      ],
+      "geometry": "rect",
+      "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+      "textPreview": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+          "runs": [
+            {
+              "index": 1,
+              "text": "双机械臂协作与力控制器系统 | 暑期社会实践汇报",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbq1oryt",
+      "id": "8",
+      "bbox": [
+        1180,
+        689,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#7DE3FF"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5wjudg7a",
+      "id": "9",
+      "name": "kicker-2-marker",
+      "bbox": [
+        58,
+        58,
+        7,
+        30
+      ],
+      "geometry": "rect",
+      "fillColor": "#18BDF2",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/54zidony",
+      "id": "10",
+      "name": "kicker-2-label",
+      "bbox": [
+        78,
+        54,
+        350,
+        28
+      ],
+      "geometry": "rect",
+      "text": "PRACTICE POSITIONING",
+      "textPreview": "PRACTICE POSITIONING",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PRACTICE POSITIONING"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PRACTICE POSITIONING",
+          "runs": [
+            {
+              "index": 1,
+              "text": "PRACTICE POSITIONING",
+              "fontSize": 15,
+              "typeface": "Microsoft YaHei",
+              "color": "#7DE3FF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cj6tovah",
+      "id": "11",
+      "name": "anim-title-2",
+      "bbox": [
+        58,
+        96,
+        760,
+        112
+      ],
+      "geometry": "rect",
+      "text": "把赛场工程问题，转化为科技创新社会实践。",
+      "textPreview": "把赛场工程问题，转化为科技创新社会实践。",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "fontSize": 36,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "把赛场工程问题，转化为科技创新社会实践。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "把赛场工程问题，转化为科技创新社会实践。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "把赛场工程问题，转化为科技创新社会实践。",
+              "fontSize": 36,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nyd0z610",
+      "id": "12",
+      "bbox": [
+        92,
+        238,
+        360,
+        34
+      ],
+      "geometry": "rect",
+      "text": "活动主题",
+      "textPreview": "活动主题",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "活动主题"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "活动主题",
+          "runs": [
+            {
+              "index": 1,
+              "text": "活动主题",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/udg7adsj",
+      "id": "13",
+      "bbox": [
+        92,
+        280,
+        74,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#18BDF2",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gbq1ory",
+      "id": "14",
+      "bbox": [
+        92,
+        296,
+        360,
+        68
+      ],
+      "geometry": "rect",
+      "text": "建功“十五五” · 青春为中国式现代化挺膺担当",
+      "textPreview": "建功“十五五” · 青春为中国式现代化挺膺担当",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "建功“十五五” · 青春为中国式现代化挺膺担当"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "建功“十五五” · 青春为中国式现代化挺膺担当",
+          "runs": [
+            {
+              "index": 1,
+              "text": "建功“十五五” · 青春为中国式现代化挺膺担当",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvixczed",
+      "id": "15",
+      "bbox": [
+        520,
+        284,
+        470,
+        34
+      ],
+      "geometry": "rect",
+      "text": "选题方向",
+      "textPreview": "选题方向",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei UI",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "选题方向"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "选题方向",
+          "runs": [
+            {
+              "index": 1,
+              "text": "选题方向",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#7DE3FF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nap4r65w",
+      "id": "16",
+      "bbox": [
+        520,
+        326,
+        74,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF7A1A",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upwb2hwf",
+      "id": "17",
+      "bbox": [
+        520,
+        342,
+        470,
+        78
+      ],
+      "geometry": "rect",
+      "text": "深耕科技创新，笃行产教融合。面向重点赛事和机器人产业需求开展揭榜攻关式学习实践。",
+      "textPreview": "深耕科技创新，笃行产教融合。面向重点赛事和机器人产业需求开展揭榜攻关式学习实践。",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "深耕科技创新，笃行产教融合。面向重点赛事和机器人产业需求开"
+          },
+          {
+            "index": 2,
+            "text": "展揭榜攻关式学习实践。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "深耕科技创新，笃行产教融合。面向重点赛事和机器人产业需求开展揭榜攻关式学习实践。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "深耕科技创新，笃行产教融合。面向重点赛事和机器人产业需求开展揭榜攻关式学习实践。",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#A9B6C8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1orytsvu",
+      "id": "18",
+      "bbox": [
+        120,
+        505,
+        760,
+        82
+      ],
+      "geometry": "roundRect",
+      "fillColor": "rgba(7, 21, 34, 0.8)",
+      "lineColor": "#18BDF2",
+      "lineWidth": 1
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7u54zid",
+      "id": "19",
+      "bbox": [
+        152,
+        526,
+        116,
+        24
+      ],
+      "geometry": "rect",
+      "text": "实践命题",
+      "textPreview": "实践命题",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "实践命题"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "实践命题",
+          "runs": [
+            {
+              "index": 1,
+              "text": "实践命题",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#FF7A1A",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oza1gvy9",
+      "id": "20",
+      "name": "anim-proof-2",
+      "bbox": [
+        280,
+        522,
+        560,
+        50
+      ],
+      "geometry": "rect",
+      "text": "验证双机械臂、力反馈控制器与视觉辅助抓取能否形成可落地的工程系统。",
+      "textPreview": "验证双机械臂、力反馈控制器与视觉辅助抓取能否形成可落地的工程系统。",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "验证双机械臂、力反馈控制器与视觉辅助抓取能否形成可"
+          },
+          {
+            "index": 2,
+            "text": "落地的工程系统。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "验证双机械臂、力反馈控制器与视觉辅助抓取能否形成可落地的工程系统。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "验证双机械臂、力反馈控制器与视觉辅助抓取能否形成可落地的工程系统。",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hk3q5o7q",
+      "id": "21",
+      "bbox": [
+        918,
+        532,
+        210,
+        34
+      ],
+      "geometry": "roundRect",
+      "fillColor": "rgba(12, 27, 44, 0.8)",
+      "lineColor": "#FF7A1A",
+      "lineWidth": 1
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6xkf6dcb",
+      "id": "22",
+      "bbox": [
+        932,
+        539,
+        182,
+        26
+      ],
+      "geometry": "rect",
+      "text": "校级答辩自陈约 4 分钟",
+      "textPreview": "校级答辩自陈约 4 分钟",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "校级答辩自陈约 4 分钟"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "校级答辩自陈约 4 分钟",
+          "runs": [
+            {
+              "index": 1,
+              "text": "校级答辩自陈约 4 分钟",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#FF7A1A",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

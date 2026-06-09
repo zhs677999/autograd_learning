@@ -1,0 +1,8 @@
+TinyTensor Sequential Parameters
+layers 1
+layer 0 Linear activation none
+weight 2 1
+2.4999999999958793
+-1.2000000000037543
+bias 1 1
+0.50000000000414657

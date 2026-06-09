@@ -134,6 +134,7 @@
     <ClCompile Include="..\src\Module.cpp" />
     <ClCompile Include="..\src\Ops.cpp" />
     <ClCompile Include="..\src\Optimizer.cpp" />
+    <ClCompile Include="..\src\Sequential.cpp" />
     <ClCompile Include="..\src\Tensor.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -144,6 +145,7 @@
     <ClInclude Include="..\include\Module.h" />
     <ClInclude Include="..\include\Ops.h" />
     <ClInclude Include="..\include\Optimizer.h" />
+    <ClInclude Include="..\include\Sequential.h" />
     <ClInclude Include="..\include\Tensor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
