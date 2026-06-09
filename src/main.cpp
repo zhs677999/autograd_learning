@@ -118,8 +118,7 @@ void runChallenge() {
     SGD optimizer(0.5);
     model.compile(optimizer);
 
-    model.fit(x, target, 20000, 2000);
-    model.saveParameters("output/xor_params.txt");
+    trainLoss(layer1, layer2, x, target, optimizer, 20000, 2000);
 
     Tensor& pred = model.forward(x);
 
