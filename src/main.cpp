@@ -9,6 +9,7 @@
 #include "Optimizer.h"
 #include "Loss.h"
 #include "Sequential.h"
+#include"Dataset.h"
 
 using namespace std;
 
@@ -130,11 +131,42 @@ void runChallenge() {
              << fixed << setprecision(4) << pred.at(i, 0)
              << " -> class " << predictedClass << endl;
     }
+
 }
 
+void runConcentricCircles() {
+    cout << "===== Concentric Circles Classification Demo =====" << endl;
+    Tensor X, Y;
+    generateConcentricCircles(X, Y, 1000, 1.0, 2.0, 0.05);
+    cout << "Generated " << X.rowCount() << " samples." << endl;
+    Linear layer1(2, 8);
+    Linear layer2(8, 1);
+    Sequential model;
+    model.add(layer1, ACT_SIGMOID);
+	model.add(layer2, ACT_SIGMOID);
+
+    SGD optimizer(0.5);
+    model.compile(optimizer);
+    TrainResult result = model.fit(X, Y, 5000, 500);
+    cout << "Final loss: " << result.finalLoss << endl;
+    model.saveParameters("output/concentric_params.txt");
+    cout << "Parameters saved to output/concentric_params.txt" << endl;
+
+    Tensor& pred = model.forward(X);
+    int correct = 0;
+    for (int i = 0; i < X.rowCount(); ++i) {
+        int predClass = pred.at(i, 0) >= 0.5 ? 1 : 0;
+        int trueClass = static_cast<int>(Y.at(i, 0));
+        if (predClass == trueClass) correct++;
+    }
+    double acc = 100.0 * correct / X.rowCount();
+    cout << "Training accuracy: " << acc << "%" << endl;
+
+
+}
 int main(int argc, char* argv[]) {
     if (argc < 2) {
-        cout << "Usage: tinytensor.exe [basic | standard | challenge | all]" << endl;
+        cout << "Usage: tinytensor.exe [basic | standard | challenge | circles | all]" << endl;
         return 0;
     }
 
@@ -144,12 +176,16 @@ int main(int argc, char* argv[]) {
         runBasic();
     } else if (mode == "standard") {
         runStandard();
-    } else if (mode == "challenge") {
+    }
+    else if (mode == "challenge") {
         runChallenge();
+    }else if(mode =="circles"){
+		runConcentricCircles();
     } else if (mode == "all") {
         runBasic();
         runStandard();
         runChallenge();
+        runConcentricCircles();
     } else {
         cout << "Unknown mode." << endl;
     }
